@@ -2,3 +2,19 @@
 *** PORTO_SUB STYLE SHEET***
 ========================================================================*/
 
+#header .social-icons {
+	clear: none;
+	float: right;
+	margin-top: 0;
+	margin-left: 5px;
+	position: relative;
+}
+
+.region-header-top {
+	float: right;
+}
+
+ul li.leaf {
+	list-style-image: none;
+	list-style-type: none;
+}
